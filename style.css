@@ -1,0 +1,49 @@
+#btn{
+    background-attachment: fixed;
+    background-color:white;
+    padding: 20px 10px;;
+    color:black;
+    font-size: 30px;
+    font-weight: lighter;
+    border: none;
+    border-radius: 10px;
+
+
+    
+}
+input{
+    background-attachment: fixed;
+    background-color: aliceblue;
+    padding:10px 20px;;
+    color: black;
+    display: inline-flex;
+    font-size: 30px;;
+}
+body{
+    background-color:antiquewhite;
+    background-image: url("https://images.fineartamerica.com/images-medium-large-5/1-gold-coin-stacks-allan-swart.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center{
+    flex-direction: column;;
+    
+
+    display: flex;;
+
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box{
+    background-color:rgba(139, 69, 19, 0.5);
+    padding: 40px 50px;;;
+}
+p,h1{
+    font-size: 40px;
+    font-weight: bold;;
+    color:whitesmoke;
+
+}
+
